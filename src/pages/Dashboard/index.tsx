@@ -11,6 +11,7 @@ import ModalEditFood from '../../components/ModalEditFood';
 import { FoodsContainer } from './styles';
 
 
+
 interface IFoodPlate {
   id: number;
   name: string;
